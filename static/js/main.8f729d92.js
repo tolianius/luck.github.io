@@ -11124,11 +11124,6 @@
                         }), (0, kr.jsxs)("div", {
                             className: "main-container",
                             children: [n && (0, kr.jsx)(zr, {
-                                target: "_blank",
-                                href: "https://1wowar.life/casino/list?open=register",
-                                className: "buttonPlay",
-                                variant: "outline-secondary",
-                                children: "\u0421\u0414\u0415\u041b\u0410\u0422\u042c \u0421\u0422\u0410\u0412\u041a\u0423"
                             }), (0, kr.jsx)("div", {
                                 className: "main-container__logo-image",
                                 children: (0, kr.jsx)("div", {
