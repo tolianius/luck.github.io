@@ -10254,7 +10254,6 @@
                     var n = e.as,
                         r = e.bsPrefix,
                         a = e.variant,
-                        i = void 0 === a ? "primary" : a,
                         u = e.size,
                         l = e.active,
                         s = void 0 !== l && l,
