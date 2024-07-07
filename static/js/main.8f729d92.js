@@ -10261,7 +10261,6 @@
                         f = void 0 !== c && c,
                         d = e.className,
                         p = b(e, Lr),
-                        h = Or(r, "btn"),
                         v = o(Cr(T({
                             tagName: n,
                             disabled: f
